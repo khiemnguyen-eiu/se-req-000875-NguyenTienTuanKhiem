@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T02:56:14.978Z",
+  "groups": [
+    {
+      "id": "a9734a2a-d1c2-4655-9e3b-f26c7898b4d8",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "349d0b96-86c8-411b-b240-5c49b2bb1443",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "89aeb5ca-d915-4295-8c79-94c3d05a42c9",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"The course catalog is ugly\" is not clear. We don't know why it's ugly and how can we make it better (change color, adding user interface, etc.).",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
